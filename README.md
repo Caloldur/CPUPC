@@ -23,7 +23,10 @@ CpuPriorityClass
 
 # Why
 
-Certain applications benefit from having higher CPU Priority. Using higher piroirites can move applications off of efficeincy cores. I have heard anecdotal evidence that Easy anti-cheat games preform better when the cpu profile is set higher but they dissallow these changes through task manager, hence the need for a registry edit.
+Certain applications benefit from having higher CPU Priority. This sets the application to launch with that higher priority every time using the registry, no more going into task manager to change it.
+
+
+Using higher piroirites can move applications off of efficeincy cores. I have heard anecdotal evidence that Easy anti-cheat games preform better when the cpu profile is set higher but they dissallow these changes through task manager, hence the need for a registry edit.
 
 # Warnings
 Junk code, not really a developer.
