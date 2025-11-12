@@ -1,3 +1,4 @@
+
 # How to use
 Download from releases.
 
@@ -27,3 +28,6 @@ Junk code, not really a developer.
 
 Thanks go out to mirko8054 on reddit for their instructions on doing this for a video game.
 https://www.reddit.com/r/starcitizen/comments/qw6ff7/set_cpu_priority_after_easy_anti_cheat_release/
+
+# Screenshot
+![screenshot](https://github.com/Caloldur/CPUPC/blob/master/ss.png?raw=true)
