@@ -14,7 +14,10 @@ Relaunch application in question to see the new cpu priority.
 # How it works
 
 It adds a registry key for the selected executable and a sub key for PerfOptions, and another value for CpuPriorityClass
+
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\<Process>\PerfOptions
+
+
 CpuPriorityClass
 
 # Warnings
